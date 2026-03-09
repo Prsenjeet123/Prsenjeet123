@@ -20,7 +20,6 @@ Senior Software Engineer specializing in backend development and cloud infrastru
 Google Cloud Associate Cloud Engineer  
 Google Cloud Professional Cloud Architect
 
-
 # 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![REST API](https://img.shields.io/badge/REST-API-009688?style=for-the-badge) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
@@ -48,27 +47,3 @@ Google Cloud Professional Cloud Architect
 [![](https://visitcount.itsvg.in/api?id=Prsenjeet123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Prsenjeet123&show_icons=true&theme=dark" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prsenjeet123&theme=dark" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prsenjeet123&layout=compact&theme=dark" height="170"/>
-
-</p>
-
----
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Prsenjeet123&icon=0&color=0"/>
-</p>
