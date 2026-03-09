@@ -1,8 +1,11 @@
 # 💫 About Me:
-Backend Software Engineer with 3+ years of experience building scalable backend systems using Python, FastAPI, and Django. Experienced in designing REST APIs, cloud-based systems, and real-time data platforms.
+Backend Software Engineer with 3+ years of experience specializing in Python, FastAPI, Django, and cloud-native
+architectures. Proven expertise in designing and implementing scalable RESTful APIs, managing real-time data pipelines
+with DynamoDB and InfluxDB, and integrating third-party device platforms. Skilled in AWS cloud services (ECS,
+Lambda, EC2, CloudWatch), database optimization, and DevOps practices. Recognized for resolving critical production
+issues and delivering high-impact backend solutions for enterprise healthcare platforms.​
 
 ## Professional Experience
-
 Senior Software Engineer specializing in backend development and cloud infrastructure.
 
 - Developed scalable backend services supporting thousands of connected devices
@@ -11,6 +14,7 @@ Senior Software Engineer specializing in backend development and cloud infrastru
 - Optimized database performance for DynamoDB and InfluxDB
 - Deployed backend services on AWS infrastructure
 - Implemented real-time device communication pipelines
+
 ## Certifications
 
 Google Cloud Associate Cloud Engineer  
