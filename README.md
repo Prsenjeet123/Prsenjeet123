@@ -1,3 +1,20 @@
+💫 About Me:
+Backend Software Engineer with 3+ years of experience building scalable backend systems using Python, FastAPI, and Django. Experienced in designing REST APIs, cloud-based systems, and real-time data platforms.
+
+## Professional Experience
+
+Senior Software Engineer specializing in backend development and cloud infrastructure.
+
+- Developed scalable backend services supporting thousands of connected devices
+- Designed secure REST APIs using Python and FastAPI
+- Integrated third-party device platforms and APIs
+- Optimized database performance for DynamoDB and InfluxDB
+- Deployed backend services on AWS infrastructure
+- Implemented real-time device communication pipelines
+## Certifications
+
+Google Cloud Associate Cloud Engineer  
+Google Cloud Professional Cloud Architect
 
 
 # 💻 Tech Stack:
