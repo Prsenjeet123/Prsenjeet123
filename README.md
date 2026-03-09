@@ -1,4 +1,4 @@
-💫 About Me:
+# 💫 About Me:
 Backend Software Engineer with 3+ years of experience building scalable backend systems using Python, FastAPI, and Django. Experienced in designing REST APIs, cloud-based systems, and real-time data platforms.
 
 ## Professional Experience
