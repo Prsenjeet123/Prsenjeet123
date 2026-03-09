@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Backend Software Engineer with 3+ years of experience specializing in Python, FastAPI, Django, and cloud-native
 architectures. Proven expertise in designing and implementing scalable RESTful APIs, managing real-time data pipelines
 with DynamoDB and InfluxDB, and integrating third-party device platforms. Skilled in AWS cloud services (ECS,
@@ -43,7 +43,7 @@ Google Cloud Professional Cloud Architect
 ![](https://nirzak-streak-stats.vercel.app/?user=Prsenjeet123&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prsenjeet123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=Prsenjeet123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
