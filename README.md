@@ -1,24 +1,46 @@
-# 💫 About Me:
-Backend Software Engineer with 3+ years of experience specializing in Python, FastAPI, Django, and cloud-native
-architectures. Proven expertise in designing and implementing scalable RESTful APIs, managing real-time data pipelines
-with DynamoDB and InfluxDB, and integrating third-party device platforms. Skilled in AWS cloud services (ECS,
-Lambda, EC2, CloudWatch), database optimization, and DevOps practices. Recognized for resolving critical production
-issues and delivering high-impact backend solutions for enterprise healthcare platforms.​
+# 🧑‍💻 About Me
 
-## Professional Experience
-Senior Software Engineer specializing in backend development and cloud infrastructure.
+🚀 **Backend Software Engineer** with **3+ years of experience** building scalable backend systems using **Python, FastAPI, Django, and cloud-native architectures**.
 
-- Developed scalable backend services supporting thousands of connected devices
-- Designed secure REST APIs using Python and FastAPI
-- Integrated third-party device platforms and APIs
-- Optimized database performance for DynamoDB and InfluxDB
-- Deployed backend services on AWS infrastructure
-- Implemented real-time device communication pipelines
+I specialize in **IoT platform development**, **REST API design**, and **cloud infrastructure on AWS**, delivering reliable systems that support **thousands of connected devices in production environments**.
 
-## Certifications
+💡 **Core Expertise**
+- Backend API development using **Python, FastAPI, Django**
+- Cloud infrastructure on **AWS (ECS, Lambda, EC2, CloudWatch)**
+- High-performance databases **DynamoDB, InfluxDB, PostgreSQL**
+- **IoT device integrations** (Techuva, Navigil platforms)
+- **Real-time data processing & monitoring systems**
+- Production debugging, incident resolution & system optimization
 
-Google Cloud Associate Cloud Engineer  
-Google Cloud Professional Cloud Architect
+---
+
+# 💼 Professional Experience
+
+**Senior Software Engineer — Backend Development & Cloud Infrastructure**
+
+✔ Developed **scalable backend services** supporting thousands of connected devices  
+✔ Designed and implemented **RESTful APIs using Python & FastAPI**  
+✔ Integrated **third-party device platforms and APIs**  
+✔ Optimized database performance for **DynamoDB and InfluxDB**  
+✔ Deployed backend services on **AWS cloud infrastructure**  
+✔ Built **real-time device communication pipelines** for IoT systems  
+
+---
+
+# 🎓 Certifications
+
+☁ **Google Cloud Associate Cloud Engineer**  
+☁ **Google Cloud Professional Cloud Architect**
+
+---
+
+# 🎯 Key Strengths
+
+🔥 Backend System Architecture  
+⚡ High Performance API Development  
+🔗 System Integration & IoT Platforms  
+🛠 Production Debugging & Incident Resolution  
+📈 Performance Optimization
 
 # 💻 Tech Stack:
 
