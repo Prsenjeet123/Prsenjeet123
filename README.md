@@ -48,3 +48,19 @@ Google Cloud Professional Cloud Architect
 [![](https://visitcount.itsvg.in/api?id=Prsenjeet123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prsenjeet123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Prsenjeet123&theme=dark&hide_border=false" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prsenjeet123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Prsenjeet123&icon=0&color=0"/>
+</p>
